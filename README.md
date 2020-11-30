@@ -24,3 +24,6 @@ Now onto the analysis. For this project, I used term frequency–inverse documen
 
 *Bernoulli naive Bayes*<br/>
 ![alt text](https://github.com/jamesgwen/Trump-vs-White-House-Staff/blob/main/Bernoulli%20naive%20Bayes.png?raw=true)<br/>
+<br/>
+From both the logitic regression and the Bernoulli naive Bayes methods, we can see that the overall accuracy scores were in the high 60s. What is interesting is that under the logistic regression model, Android had a high recall score. While the accuracy scores were not exceptionally high, scores in the high 60s do indicate that there is some noticable difference between tweets written on Android and iPhone. Given that the words that stood out in the word cloud were all related to Trump's signature rhetoric and that the accuracy scores were not very high, this could mean that 1) his staff do try to mimic the President's tweet style when drafting content for his platform or 2) Donald Trump uses both an Android and an iPhone. 
+
