@@ -19,7 +19,6 @@ From this graph, we can see that the majority of @realDonaldTrump tweets are wri
 *To see code, please look at the python script*<br/>
 Now onto the analysis. For this project, I used term frequency–inverse document frequency (TF-IDF) to convert the tweets into data that would be agreeable for different methods. After getting the TF-IDF scores, I decided to compare logistic regression and Bernoulli naive Bayes classifer to see which would be better at classifying the tweets. These two methods are great for classifying binary variables. The idea here is that if either method can accurately determine on which phone a tweet was written, then the iPhone writters are different from the Android writers; put more simply, if either method can tell the difference between an Android tweet and an iPhone tweet, then we likely confirm that Donald Trump writes the tweets made on Android and his staff write the tweets made on iPhone.<br/> 
 
-*Note: the label for Android was changed to Trump and the label for iPhone was changed to staff in the data*<br/>
 *Logistic Regression*<br/>
 ![alt text](https://github.com/jamesgwen/Trump-vs-White-House-Staff/blob/main/logistic_regression.png?raw=true)<br/>
 
