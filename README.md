@@ -7,3 +7,6 @@ This project aims to see if term frequency–inverse document frequency can accu
 Let's explore the tweets! From the wordcloud, we can see many of Trump's popular phrases such as Make America Great Again. We can also see many of Trump's talking points suchs as (crooked) Hillary Clinton, Bernie Sanders, and Ted Cruz. The prevelance of these words indicates that both Trump and his staff likely are consistent with the rhetoric stereotypical to Trump.<br />
 
 ![alt text](https://github.com/jamesgwen/Trump-vs-White-House-Staff/blob/main/wordcloud.png?raw=true)<br/>
+
+Now let us look at the split between tweets written on Android and those on Apple.
+![alt text](https://github.com/jamesgwen/Trump-vs-White-House-Staff/blob/main/tweet_histogram.png?raw=true)<br/>
